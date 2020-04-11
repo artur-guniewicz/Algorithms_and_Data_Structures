@@ -8,5 +8,7 @@ A place to insert implementations of algorithms and data structures
 2. Fast exponentation
 3. Hashing
 4. Reverse Polish Notation (RPN)
+5. Array list
+6. Pointer list
 
 More implementations will be added soon.
