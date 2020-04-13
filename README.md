@@ -10,5 +10,6 @@ A place to insert implementations of algorithms and data structures
 4. Reverse Polish Notation (RPN)
 5. Array list
 6. Pointer list
+7. Merge sort
 
 More implementations will be added soon.
