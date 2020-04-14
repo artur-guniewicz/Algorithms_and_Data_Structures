@@ -11,5 +11,6 @@ A place to insert implementations of algorithms and data structures
 5. Array list
 6. Pointer list
 7. Merge sort
+8. Simple sorting
 
 More implementations will be added soon.
